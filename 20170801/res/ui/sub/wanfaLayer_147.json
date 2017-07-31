@@ -1,0 +1,1012 @@
+{
+  "ID": "0dd77027-094f-4b07-a5fb-0e6041806383",
+  "Version": "3.10.0.0",
+  "Name": "wanfaLayer_147",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 235,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "day_bg_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 54,
+            "Scale9OriginY": 55,
+            "Scale9Width": 583,
+            "Scale9Height": 328,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7923,
+              "Y": 0.7813
+            },
+            "LeftMargin": 118.0,
+            "RightMargin": 118.0,
+            "TopMargin": 70.0,
+            "BottomMargin": 70.0,
+            "Tag": 252,
+            "ActionTag": 567000307,
+            "Size": {
+              "X": 900.0,
+              "Y": 500.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "close_Sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close_Sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close_Sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1011.2159,
+              "Y": 570.7832
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8902,
+              "Y": 0.8918
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 983.2159,
+            "RightMargin": 96.7842,
+            "TopMargin": 41.2168,
+            "BottomMargin": 542.7832,
+            "Tag": 250,
+            "ActionTag": -601573831,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 40,
+            "ButtonText": "玩法规则",
+            "TextColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban111.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 58,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 458.6816,
+              "Y": 512.2901
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4038,
+              "Y": 0.8005
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.125
+            },
+            "LeftMargin": 357.6816,
+            "RightMargin": 576.3184,
+            "TopMargin": 87.7099,
+            "BottomMargin": 472.2901,
+            "Tag": 236,
+            "ActionTag": -415328547,
+            "Size": {
+              "X": 202.0,
+              "Y": 80.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 40,
+            "ButtonText": "胡牌规则",
+            "TextColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban111.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 58,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 675.9003,
+              "Y": 512.2901
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.595,
+              "Y": 0.8005
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.125
+            },
+            "LeftMargin": 574.9003,
+            "RightMargin": 359.0997,
+            "TopMargin": 87.7099,
+            "BottomMargin": 472.2901,
+            "Tag": 237,
+            "ActionTag": -1827768246,
+            "Size": {
+              "X": 202.0,
+              "Y": 80.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 40,
+            "ButtonText": "计分规则",
+            "TextColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban111.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 58,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 893.1189,
+              "Y": 512.2901
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7862,
+              "Y": 0.8005
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.125
+            },
+            "LeftMargin": 792.1189,
+            "RightMargin": 141.8811,
+            "TopMargin": 87.7099,
+            "BottomMargin": 472.2901,
+            "Tag": 238,
+            "ActionTag": -41856409,
+            "Size": {
+              "X": 202.0,
+              "Y": 80.0
+            },
+            "Name": "b3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "玩法介绍",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 572.9247,
+              "Y": 596.5699
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5043,
+              "Y": 0.9321
+            },
+            "PreSize": {
+              "X": 0.1056,
+              "Y": 0.0531
+            },
+            "LeftMargin": 512.9247,
+            "RightMargin": 503.0753,
+            "TopMargin": 26.4301,
+            "BottomMargin": 579.5699,
+            "Tag": 239,
+            "ActionTag": -1067252682,
+            "Size": {
+              "X": 120.0,
+              "Y": 34.0
+            },
+            "Name": "Text_20",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 850,
+              "Height": 600
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 140.9215,
+              "Y": 84.38
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1241,
+              "Y": 0.1318
+            },
+            "PreSize": {
+              "X": 0.7482,
+              "Y": 0.5938
+            },
+            "LeftMargin": 140.9215,
+            "RightMargin": 145.0785,
+            "TopMargin": 175.62,
+            "BottomMargin": 84.38,
+            "Tag": 240,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "1、偎牌：摸牌时，如果所摸的牌正好是手中的一对牌，则必须将牌由手上放到桌上（两暗一明）。\n2、臭牌：忍碰之后，又偎牌，称为臭牌。臭牌必须明示（两张暗一张明）。\n3、提牌：提牌时，如果所摸的牌正好是手中的一坎牌，则必须将牌由手上放到桌上，必须示众（三张暗，一张明示）。\n4、碰牌：当别人打或者摸的牌自己手中有一对，则可以碰牌，碰牌后将牌放到桌面。\n5、跑牌：当别人打或摸的牌自己手中有一坎，或者是已经偎牌的牌，则可以跑牌，跑牌后将牌放到桌面。或者当别人从墩子摸的牌，是自己已经碰的牌，则同样可以跑牌。\n6、忍碰：当有机会碰牌时，而自己不碰，则称为忍碰。\n7、重跑：当跑的牌超过1次，称为八快。如跑了小二，再跑小三时，称为重跑。此时不用从手中打牌出去，而要让下家摸牌。\n8、吃牌：上家出的或者自己摸的牌，示众后没有人碰牌或者跑牌，则可以与自己手中的牌型组合成一句话，或者绞牌，放到桌面，称为吃牌。\n9、过张：当有机会吃，碰时，自己却没有吃，碰的牌，称为过张。过张后，自己不能再吃，碰同一张，直到这局游戏结束。\n10、摆火：当吃的牌手中还有时，必须要将手中的这张牌根据某种组合，也要放到桌面，称为摆火。\n11、每进一张牌，必须打出一张，重跑除外。",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 428.506,
+                  "Y": 294.0867
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5041,
+                  "Y": 0.4901
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 3.506,
+                "RightMargin": -3.506,
+                "TopMargin": 5.9133,
+                "BottomMargin": -5.9133,
+                "Tag": 241,
+                "ActionTag": 425943182,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 600.0
+                },
+                "Name": "Text_21",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1600842228,
+            "Size": {
+              "X": 850.0,
+              "Y": 380.0
+            },
+            "Name": "scroll1",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 850,
+              "Height": 380
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 140.92,
+              "Y": 84.38
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.124,
+              "Y": 0.1318
+            },
+            "PreSize": {
+              "X": 0.7482,
+              "Y": 0.5938
+            },
+            "LeftMargin": 140.92,
+            "RightMargin": 145.08,
+            "TopMargin": 175.62,
+            "BottomMargin": 84.38,
+            "Tag": 242,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "1、胡牌：必须满足下面条件才可以胡牌\n         【1】满足最低10胡息。\n         【2】手里的与桌面上的牌组合有7方门子\n         【3】胡牌必须胡墩子上的，示众后的牌，可以胡过张牌，胡自己或其他人要碰，跑的牌。不能胡任何人提或偎的牌。\n2、一方门子：比如一句话，一绞牌，一碰，一提，一偎，一跑都称为一方门子。当有跑牌或提牌时，一对牌可以称为一方门子，叫做将，跑牌或提牌时，必须有一对将，否则要掉将。",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 427.022,
+                  "Y": 77.8287
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5024,
+                  "Y": 0.2048
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.5789
+                },
+                "LeftMargin": 2.022,
+                "RightMargin": -2.022,
+                "TopMargin": 2.1713,
+                "BottomMargin": -222.1713,
+                "Tag": 243,
+                "ActionTag": 2118695189,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 600.0
+                },
+                "Name": "Text_21",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1087638395,
+            "Size": {
+              "X": 850.0,
+              "Y": 380.0
+            },
+            "Name": "scroll2",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 850,
+              "Height": 600
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 140.92,
+              "Y": 84.38
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.124,
+              "Y": 0.1318
+            },
+            "PreSize": {
+              "X": 0.7482,
+              "Y": 0.5938
+            },
+            "LeftMargin": 140.92,
+            "RightMargin": 145.08,
+            "TopMargin": 175.62,
+            "BottomMargin": 84.38,
+            "Tag": 244,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "1、最低起胡10胡息。\n2、胡牌坐庄。\n3、可以胡墩上的牌，示众后的牌。\n4、不能胡任何人提或偎的牌。\n5、胡牌必须胡墩上的，示众后的牌，可以胡过张，胡自己或他人要碰，跑的牌。不能胡任何人提或偎的牌。\n\n提（四张）: 大字12胡 小字9胡 \n跑（四张）: 大字9胡 小字6胡 \n偎（三张）: 大字6胡 小字3胡 \n碰（三张）: 大字3胡 小字1胡 \n贰 柒 拾 : 6胡 \n二 七 十 : 3胡 \n壹 贰 叁 : 6胡 \n一 二 三 : 3胡 \n\n\n",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 428.9822,
+                  "Y": 298.7646
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5047,
+                  "Y": 0.4979
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 3.9822,
+                "RightMargin": -3.9822,
+                "TopMargin": 1.2354,
+                "BottomMargin": -1.2354,
+                "Tag": 245,
+                "ActionTag": 1157951692,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 600.0
+                },
+                "Name": "Text_21",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1866513736,
+            "Size": {
+              "X": 850.0,
+              "Y": 380.0
+            },
+            "Name": "scroll3",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FontSize": 40,
+            "ButtonText": "游戏说明",
+            "TextColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban111.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "anniudiban2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 58,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 241.463,
+              "Y": 512.2901
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2126,
+              "Y": 0.8005
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.125
+            },
+            "LeftMargin": 140.463,
+            "RightMargin": 793.537,
+            "TopMargin": 87.7099,
+            "BottomMargin": 472.2901,
+            "Tag": 246,
+            "ActionTag": 2015758388,
+            "Size": {
+              "X": 202.0,
+              "Y": 80.0
+            },
+            "Name": "b4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 850,
+              "Height": 380
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 137.7623,
+              "Y": 89.5031
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1213,
+              "Y": 0.1398
+            },
+            "PreSize": {
+              "X": 0.7482,
+              "Y": 0.5938
+            },
+            "LeftMargin": 137.7623,
+            "RightMargin": 148.2377,
+            "TopMargin": 170.4969,
+            "BottomMargin": 89.5031,
+            "Tag": 247,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "\t\n\n      跑胡子一共80张牌，小字“一”到“十”各4张共40张，大字“壹”到“拾”各4张共40张。其中大小写的2,7,10为红色，其他的全部为黑色。可3人玩也可4人玩，玩法都一样。",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 429.9851,
+                  "Y": 177.2914
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5059,
+                  "Y": 0.4666
+                },
+                "PreSize": {
+                  "X": 1.0118,
+                  "Y": 1.0526
+                },
+                "LeftMargin": -0.0149,
+                "RightMargin": -9.9851,
+                "TopMargin": 2.7086,
+                "BottomMargin": -22.7086,
+                "Tag": 248,
+                "ActionTag": -1355300331,
+                "Size": {
+                  "X": 860.0,
+                  "Y": 400.0
+                },
+                "Name": "Text_21",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "游戏说明",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 433.7057,
+                  "Y": 357.5801
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5102,
+                  "Y": 0.941
+                },
+                "PreSize": {
+                  "X": 0.1412,
+                  "Y": 0.0895
+                },
+                "LeftMargin": 373.7057,
+                "RightMargin": 356.2943,
+                "TopMargin": 5.4199,
+                "BottomMargin": 340.5801,
+                "Tag": 249,
+                "ActionTag": -300155404,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 34.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 874208205,
+            "Size": {
+              "X": 850.0,
+              "Y": 380.0
+            },
+            "Name": "scroll4",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "anniudiban111.png",
+        "anniudiban2.png",
+        "close_Sub.png",
+        "day_bg_sub.png",
+        "faststart_sub.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

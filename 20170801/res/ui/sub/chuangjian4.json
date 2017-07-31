@@ -1,0 +1,1324 @@
+{
+  "ID": "15a23bd3-50e1-4001-8120-47c7ab079a12",
+  "Version": "3.10.0.0",
+  "Name": "chuangjian4",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 89,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "chuangjian_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 54,
+            "Scale9OriginY": 55,
+            "Scale9Width": 951,
+            "Scale9Height": 487,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.9993,
+              "Y": 319.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0637,
+              "ScaleY": 1.0637
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9322,
+              "Y": 0.9328
+            },
+            "LeftMargin": 38.4993,
+            "RightMargin": 38.5007,
+            "TopMargin": 21.5002,
+            "BottomMargin": 21.4998,
+            "Tag": 90,
+            "ActionTag": 1537322035,
+            "Size": {
+              "X": 1059.0,
+              "Y": 597.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guanbianniu.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "guanbianniu.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guanbianniu.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1104.1758,
+              "Y": 600.6283
+            },
+            "Scale": {
+              "ScaleX": 1.1339,
+              "ScaleY": 1.1339
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.972,
+              "Y": 0.9385
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 1076.1758,
+            "RightMargin": 3.8242,
+            "TopMargin": 11.3717,
+            "BottomMargin": 572.6283,
+            "Tag": 95,
+            "ActionTag": 625881507,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 220,
+              "Height": 873
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 36.9136,
+              "Y": 45.159
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0325,
+              "Y": 0.0706
+            },
+            "PreSize": {
+              "X": 0.1937,
+              "Y": 0.7719
+            },
+            "LeftMargin": 36.9136,
+            "RightMargin": 879.0864,
+            "TopMargin": 100.841,
+            "BottomMargin": 45.159,
+            "Tag": 89,
+            "Children": [
+              {
+                "FontSize": 30,
+                "ButtonText": "邵阳剥皮",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 111.3435,
+                  "Y": 750.7444
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5061,
+                  "Y": 0.86
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8435,
+                "RightMargin": -1.8435,
+                "TopMargin": 82.2556,
+                "BottomMargin": 710.7444,
+                "Tag": 167,
+                "ActionTag": -2096830546,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "bopi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "郴州字牌",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 111.3435,
+                  "Y": 425.707
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5061,
+                  "Y": 0.4876
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8435,
+                "RightMargin": -1.8435,
+                "TopMargin": 407.293,
+                "BottomMargin": 385.707,
+                "Tag": 169,
+                "ActionTag": -80517506,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "binzhou",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "邵阳红胡",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 111.3435,
+                  "Y": 181.929
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5061,
+                  "Y": 0.2084
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8435,
+                "RightMargin": -1.8435,
+                "TopMargin": 651.071,
+                "BottomMargin": 141.929,
+                "Tag": 219,
+                "ActionTag": -1053360373,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "honghuzi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "邵阳告胡子",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5322,
+                  "ScaleY": 0.3678
+                },
+                "Position": {
+                  "X": 1999.9,
+                  "Y": 299961.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 9.0905,
+                  "Y": 343.5979
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 1882.2838,
+                "RightMargin": -1883.2839,
+                "TopMargin": -299138.5625,
+                "BottomMargin": 299931.5625,
+                "Tag": 212,
+                "ActionTag": 2080307004,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaohuzi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "郴州永兴字牌",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -639.9344,
+                  "Y": 1278.0616
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -2.9088,
+                  "Y": 1.464
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": -750.4344,
+                "RightMargin": 749.4344,
+                "TopMargin": -445.0616,
+                "BottomMargin": 1238.0616,
+                "Tag": 88,
+                "ActionTag": 1878780781,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "yongxing",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "娄底放炮罚",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5322,
+                  "ScaleY": 0.3678
+                },
+                "Position": {
+                  "X": 116.46,
+                  "Y": 821.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5294,
+                  "Y": 0.9416
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": -1.1562,
+                "RightMargin": 0.1562,
+                "TopMargin": 0.4241,
+                "BottomMargin": 792.5759,
+                "Tag": 47,
+                "ActionTag": 908680066,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "loudi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "双峰煨胡子",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5312,
+                  "ScaleY": 0.4407
+                },
+                "Position": {
+                  "X": 118.2386,
+                  "Y": 664.7409
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5374,
+                  "Y": 0.7614
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8434,
+                "RightMargin": -1.8434,
+                "TopMargin": 163.5151,
+                "BottomMargin": 629.4849,
+                "Tag": 58,
+                "ActionTag": 1977936379,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "shuangfeng",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "歪胡子",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5322,
+                  "ScaleY": 0.3678
+                },
+                "Position": {
+                  "X": -632.8187,
+                  "Y": 615.2311
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -2.8764,
+                  "Y": 0.7047
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": -750.4349,
+                "RightMargin": 749.4349,
+                "TopMargin": 207.1929,
+                "BottomMargin": 585.8071,
+                "Tag": 127,
+                "ActionTag": -1738312219,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "waihuzi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "耒阳字牌",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -639.9344,
+                  "Y": 1495.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -2.9088,
+                  "Y": 1.713
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": -750.4344,
+                "RightMargin": 749.4344,
+                "TopMargin": -662.48,
+                "BottomMargin": 1455.48,
+                "Tag": 222,
+                "ActionTag": -448535379,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "leiyang",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "衡阳六胡抢",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8888.8398,
+                  "Y": 555.83
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 40.4038,
+                  "Y": 0.6367
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 8778.3398,
+                "RightMargin": -8779.3398,
+                "TopMargin": 277.17,
+                "BottomMargin": 515.83,
+                "Tag": 223,
+                "ActionTag": -716300381,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "hengyang",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "桂林字牌",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5052,
+                  "ScaleY": 0.4591
+                },
+                "Position": {
+                  "X": 112.4928,
+                  "Y": 584.9498
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5113,
+                  "Y": 0.67
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8436,
+                "RightMargin": -1.8436,
+                "TopMargin": 244.7782,
+                "BottomMargin": 548.2218,
+                "Tag": 382,
+                "ActionTag": -1097434823,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "guilin",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "怀化红拐弯",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.34,
+                  "Y": 100.67
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5106,
+                  "Y": 0.1153
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 1.84,
+                "RightMargin": -2.84,
+                "TopMargin": 732.33,
+                "BottomMargin": 60.67,
+                "Tag": 185,
+                "ActionTag": 442548083,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "huaihua",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "衡阳红黑胡",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.6085,
+                  "ScaleY": 0.2446
+                },
+                "Position": {
+                  "X": 135.322,
+                  "Y": 324.0157
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6151,
+                  "Y": 0.3712
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8435,
+                "RightMargin": -1.8435,
+                "TopMargin": 488.5523,
+                "BottomMargin": 304.4477,
+                "Tag": 310,
+                "ActionTag": 252518173,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "hongheihu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "攸县碰胡子",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.6085,
+                  "ScaleY": 0.2446
+                },
+                "Position": {
+                  "X": 135.322,
+                  "Y": 486.5344
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6151,
+                  "Y": 0.5573
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8435,
+                "RightMargin": -1.8435,
+                "TopMargin": 326.0336,
+                "BottomMargin": 466.9664,
+                "Tag": 121,
+                "ActionTag": 965914433,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "penghuzi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "大字牌",
+                "TextColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban111.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "anniudiban2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.6085,
+                  "ScaleY": 0.2446
+                },
+                "Position": {
+                  "X": 135.322,
+                  "Y": 242.7564
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6151,
+                  "Y": 0.2781
+                },
+                "PreSize": {
+                  "X": 1.0045,
+                  "Y": 0.0916
+                },
+                "LeftMargin": 0.8435,
+                "RightMargin": -1.8435,
+                "TopMargin": 569.8116,
+                "BottomMargin": 223.1884,
+                "Tag": 20,
+                "ActionTag": 389059287,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 80.0
+                },
+                "Name": "dazipai",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1525906401,
+            "Size": {
+              "X": 220.0,
+              "Y": 494.0
+            },
+            "Name": "ScrollView_1",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "anniudiban111.png",
+        "anniudiban2.png",
+        "chuangjian_bg.png",
+        "guanbianniu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

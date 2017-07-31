@@ -1,0 +1,130 @@
+{
+  "ID": "8552619c-33a7-4b1c-863d-2e4a41dcb70a",
+  "Version": "3.10.0.0",
+  "Name": "liaotianTip3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 230,
+        "Children": [
+          {
+            "FlipY": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "tip_liaotian.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 146,
+            "Scale9OriginY": 32,
+            "Scale9Width": 153,
+            "Scale9Height": 35,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -21.8785,
+              "Y": -19.8514
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0193,
+              "Y": -0.031
+            },
+            "PreSize": {
+              "X": 0.3917,
+              "Y": 0.1547
+            },
+            "LeftMargin": -21.8785,
+            "RightMargin": 712.8785,
+            "TopMargin": 610.3514,
+            "BottomMargin": -69.3514,
+            "Tag": 232,
+            "ActionTag": 1300136008,
+            "Size": {
+              "X": 445.0,
+              "Y": 99.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点快点",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -19.2783,
+              "Y": -27.4526
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.017,
+              "Y": -0.0429
+            },
+            "PreSize": {
+              "X": 1.5493,
+              "Y": 0.0359
+            },
+            "LeftMargin": -19.2783,
+            "RightMargin": -604.7217,
+            "TopMargin": 655.9526,
+            "BottomMargin": -38.9526,
+            "Tag": 231,
+            "ActionTag": 1175718287,
+            "Size": {
+              "X": 1760.0,
+              "Y": 23.0
+            },
+            "Name": "t",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "tip_liaotian.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,565 @@
+{
+  "ID": "150e594b-c65c-457f-bd0e-b8c57bfaabb1",
+  "Version": "3.10.0.0",
+  "Name": "chakanLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dikuang_chakan.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 223,
+            "Scale9OriginY": 86,
+            "Scale9Width": 245,
+            "Scale9Height": 266,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6162,
+              "Y": 0.4688
+            },
+            "LeftMargin": 218.0,
+            "RightMargin": 218.0,
+            "TopMargin": 170.0,
+            "BottomMargin": 170.0,
+            "Tag": 17,
+            "ActionTag": 468845133,
+            "Size": {
+              "X": 700.0,
+              "Y": 300.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "icon21_finish.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 14,
+            "Scale9Width": 22,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 304.9996,
+              "Y": 373.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2685,
+              "Y": 0.5828
+            },
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.1766
+            },
+            "LeftMargin": 249.4996,
+            "RightMargin": 775.5004,
+            "TopMargin": 210.4999,
+            "BottomMargin": 316.5001,
+            "Tag": 18,
+            "ActionTag": -1184384933,
+            "Size": {
+              "X": 111.0,
+              "Y": 113.0
+            },
+            "Name": "head",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guanbi_finish_fucheng.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "guanbi_finish_fucheng.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guanbi_finish_fucheng.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 913.9984,
+              "Y": 470.9999
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8046,
+              "Y": 0.7359
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 885.9984,
+            "RightMargin": 194.0016,
+            "TopMargin": 141.0001,
+            "BottomMargin": 442.9999,
+            "Tag": 19,
+            "ActionTag": 554520995,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 520.9998,
+              "Y": 207.4197
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4586,
+              "Y": 0.3241
+            },
+            "PreSize": {
+              "X": 0.044,
+              "Y": 0.3438
+            },
+            "LeftMargin": 520.9998,
+            "RightMargin": 565.0002,
+            "TopMargin": 212.5803,
+            "BottomMargin": 207.4197,
+            "Tag": 61,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chi_finish_fucheng.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 25,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 23.9296,
+                  "Y": 217.9694
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4786,
+                  "Y": 0.9908
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.1591
+                },
+                "LeftMargin": 3.9296,
+                "RightMargin": 6.0704,
+                "TopMargin": -15.4694,
+                "BottomMargin": 200.4694,
+                "Tag": 62,
+                "ActionTag": -884911716,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 35.0
+                },
+                "Name": "a1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "999",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 25.7159,
+                  "Y": 7.4674
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5143,
+                  "Y": 0.0339
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1364
+                },
+                "LeftMargin": 0.7159,
+                "RightMargin": -0.7159,
+                "TopMargin": 197.5326,
+                "BottomMargin": -7.5326,
+                "Tag": 63,
+                "ActionTag": 1864019093,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 30.0
+                },
+                "Name": "a6",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 335878546,
+            "Size": {
+              "X": 50.0,
+              "Y": 220.0
+            },
+            "Name": "p1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "名字",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 364.9996,
+              "Y": 410.9992
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3213,
+              "Y": 0.6422
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.0391
+            },
+            "LeftMargin": 364.9996,
+            "RightMargin": 569.0004,
+            "TopMargin": 216.5008,
+            "BottomMargin": 398.4992,
+            "Tag": 64,
+            "ActionTag": -711172163,
+            "Size": {
+              "X": 202.0,
+              "Y": 25.0
+            },
+            "Name": "name",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "ID:",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 364.9996,
+              "Y": 360.9992
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3213,
+              "Y": 0.5641
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.0359
+            },
+            "LeftMargin": 364.9996,
+            "RightMargin": 569.0004,
+            "TopMargin": 267.5008,
+            "BottomMargin": 349.4992,
+            "Tag": 65,
+            "ActionTag": -105819138,
+            "Size": {
+              "X": 202.0,
+              "Y": 23.0
+            },
+            "Name": "id",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "本局分数:",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 251.5054,
+              "Y": 273.8108
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2214,
+              "Y": 0.4278
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0453
+            },
+            "LeftMargin": 251.5054,
+            "RightMargin": 684.4946,
+            "TopMargin": 351.6892,
+            "BottomMargin": 259.3108,
+            "Tag": 66,
+            "ActionTag": -655373302,
+            "Size": {
+              "X": 200.0,
+              "Y": 29.0
+            },
+            "Name": "score1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "累计分数:",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 251.5054,
+              "Y": 220.7059
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2214,
+              "Y": 0.3449
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0453
+            },
+            "LeftMargin": 251.5054,
+            "RightMargin": 684.4946,
+            "TopMargin": 404.7941,
+            "BottomMargin": 206.2059,
+            "Tag": 67,
+            "ActionTag": 276823884,
+            "Size": {
+              "X": 200.0,
+              "Y": 29.0
+            },
+            "Name": "score2",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "chi_finish_fucheng.png",
+        "dikuang_chakan.png",
+        "guanbi_finish_fucheng.png",
+        "icon21_finish.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

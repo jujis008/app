@@ -1,0 +1,308 @@
+{
+  "ID": "e8bd4fcc-09e4-4ed1-8881-12b9eb6ebf97",
+  "Version": "3.10.0.0",
+  "Name": "playBackLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 78,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bg_playback.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 168,
+            "Scale9OriginY": 29,
+            "Scale9Width": 175,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 59.91
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0936
+            },
+            "PreSize": {
+              "X": 0.4498,
+              "Y": 0.1406
+            },
+            "LeftMargin": 312.5,
+            "RightMargin": 312.5,
+            "TopMargin": 535.09,
+            "BottomMargin": 14.91,
+            "Tag": 79,
+            "ActionTag": 288302087,
+            "Size": {
+              "X": 511.0,
+              "Y": 90.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "pause1_playback.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "pause1_playback.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "pause2_playback.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 30,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 457.7165,
+              "Y": 61.2056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4029,
+              "Y": 0.0956
+            },
+            "PreSize": {
+              "X": 0.0528,
+              "Y": 0.0828
+            },
+            "LeftMargin": 427.7165,
+            "RightMargin": 648.2834,
+            "TopMargin": 552.2944,
+            "BottomMargin": 34.7056,
+            "Tag": 81,
+            "ActionTag": -1781786709,
+            "Size": {
+              "X": 60.0,
+              "Y": 53.0
+            },
+            "Name": "zanting",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "playbtn1_playback.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "playbtn1_playback.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "playbtn2__playback.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 29,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 457.2459,
+              "Y": 58.6756
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4025,
+              "Y": 0.0917
+            },
+            "PreSize": {
+              "X": 0.0519,
+              "Y": 0.0828
+            },
+            "LeftMargin": 427.7459,
+            "RightMargin": 649.2541,
+            "TopMargin": 554.8243,
+            "BottomMargin": 32.1756,
+            "Tag": 82,
+            "ActionTag": -709641134,
+            "Size": {
+              "X": 59.0,
+              "Y": 53.0
+            },
+            "Name": "jixu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "return1_playback.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "return1_playback.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "return2_playback.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 23,
+            "Scale9Height": 32,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 688.7738,
+              "Y": 59.4986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6063,
+              "Y": 0.093
+            },
+            "PreSize": {
+              "X": 0.0467,
+              "Y": 0.0844
+            },
+            "LeftMargin": 662.2738,
+            "RightMargin": 420.7262,
+            "TopMargin": 553.5014,
+            "BottomMargin": 32.4986,
+            "Tag": 83,
+            "ActionTag": 201138323,
+            "Size": {
+              "X": 53.0,
+              "Y": 54.0
+            },
+            "Name": "fanhui",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bg_playback.png",
+        "pause1_playback.png",
+        "pause2_playback.png",
+        "playbtn1_playback.png",
+        "playbtn2__playback.png",
+        "return1_playback.png",
+        "return2_playback.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

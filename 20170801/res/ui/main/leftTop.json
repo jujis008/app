@@ -1,0 +1,403 @@
+{
+  "ID": "ad04fac6-49db-4a47-98be-7487516a1570",
+  "Version": "3.10.0.0",
+  "Name": "leftTop",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "icon12_main.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 138,
+            "Scale9OriginY": -6,
+            "Scale9Width": 551,
+            "Scale9Height": 43,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -298.8879,
+              "Y": 450.0318
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.2631,
+              "Y": 0.7032
+            },
+            "PreSize": {
+              "X": 0.3891,
+              "Y": 0.1766
+            },
+            "LeftMargin": -519.8879,
+            "RightMargin": 1213.8879,
+            "TopMargin": 133.4682,
+            "BottomMargin": 393.5318,
+            "Tag": 352,
+            "ActionTag": 1147812382,
+            "Size": {
+              "X": 442.0,
+              "Y": 113.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Image_1_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "icon21_main.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "icon21_main.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "icon21_main.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 20,
+            "Scale9Height": 29,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 66.1002,
+              "Y": 583.1716
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0582,
+              "Y": 0.9112
+            },
+            "PreSize": {
+              "X": 0.0933,
+              "Y": 0.1656
+            },
+            "LeftMargin": 13.1002,
+            "RightMargin": 1016.8998,
+            "TopMargin": 3.8284,
+            "BottomMargin": 530.1716,
+            "Tag": 350,
+            "ActionTag": 1284529782,
+            "Size": {
+              "X": 106.0,
+              "Y": 106.0
+            },
+            "Name": "icon",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "icon21_main.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "icon17_main.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 120,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 206.8312,
+              "Y": 565.3904
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1821,
+              "Y": 0.8834
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0562
+            },
+            "LeftMargin": 106.8312,
+            "RightMargin": 829.1688,
+            "TopMargin": 56.6096,
+            "BottomMargin": 547.3904,
+            "Tag": 421,
+            "ActionTag": -171052640,
+            "Size": {
+              "X": 200.0,
+              "Y": 36.0
+            },
+            "Name": "icon_0_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "ID:12345677890",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 129.1269,
+              "Y": 565.9168
+            },
+            "Scale": {
+              "ScaleX": 1.0136,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1137,
+              "Y": 0.8842
+            },
+            "PreSize": {
+              "X": 0.1303,
+              "Y": 0.0359
+            },
+            "LeftMargin": 129.1269,
+            "RightMargin": 858.8731,
+            "TopMargin": 62.5832,
+            "BottomMargin": 554.4168,
+            "Tag": 349,
+            "ActionTag": 489082003,
+            "Size": {
+              "X": 148.0,
+              "Y": 23.0
+            },
+            "Name": "id",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "icon21_main.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "icon17_main.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 120,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 206.8312,
+              "Y": 602.1055
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1821,
+              "Y": 0.9408
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0562
+            },
+            "LeftMargin": 106.8312,
+            "RightMargin": 829.1688,
+            "TopMargin": 19.8945,
+            "BottomMargin": 584.1055,
+            "Tag": 420,
+            "ActionTag": -26518721,
+            "Size": {
+              "X": 200.0,
+              "Y": 36.0
+            },
+            "Name": "icon_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "玩家的名字名字",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 129.1269,
+              "Y": 603.486
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1137,
+              "Y": 0.9429
+            },
+            "PreSize": {
+              "X": 0.1232,
+              "Y": 0.0359
+            },
+            "LeftMargin": 129.1269,
+            "RightMargin": 866.8731,
+            "TopMargin": 25.014,
+            "BottomMargin": 591.986,
+            "Tag": 351,
+            "ActionTag": -1778236185,
+            "Size": {
+              "X": 140.0,
+              "Y": 23.0
+            },
+            "Name": "name",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/Button_Press.png",
+        "icon12_main.png",
+        "icon17_main.png",
+        "icon21_main.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
