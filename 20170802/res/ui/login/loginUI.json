@@ -1,0 +1,430 @@
+{
+  "ID": "7565ce37-a005-4631-9e7c-7dbb2cf9ffd3",
+  "Version": "3.10.0.0",
+  "Name": "loginUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "checkBox1_login.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "checkBox1_login.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "checkBox1_login.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 9,
+            "Scale9OriginY": 11,
+            "Scale9Width": 10,
+            "Scale9Height": 5,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5005,
+              "ScaleY": 0.4225
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 90.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4225,
+              "Y": 0.1406
+            },
+            "PreSize": {
+              "X": 0.0308,
+              "Y": 0.0547
+            },
+            "LeftMargin": 462.4825,
+            "RightMargin": 638.5175,
+            "TopMargin": 529.7875,
+            "BottomMargin": 75.2125,
+            "Tag": 14,
+            "ActionTag": 1134717811,
+            "Size": {
+              "X": 35.0,
+              "Y": 35.0
+            },
+            "Name": "select1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "login_wx1_login.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "login_wx1_login.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "login_wx1_login.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 269,
+            "Scale9Height": 57,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 564.0022,
+              "Y": 180.0163
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4965,
+              "Y": 0.2813
+            },
+            "PreSize": {
+              "X": 0.2632,
+              "Y": 0.1234
+            },
+            "LeftMargin": 414.5022,
+            "RightMargin": 422.4978,
+            "TopMargin": 420.4837,
+            "BottomMargin": 140.5163,
+            "Tag": 16,
+            "ActionTag": 282322214,
+            "Size": {
+              "X": 299.0,
+              "Y": 79.0
+            },
+            "Name": "login",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 25,
+            "LabelText": "同意用户协议",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 583.0,
+              "Y": 93.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5132,
+              "Y": 0.1453
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0453
+            },
+            "LeftMargin": 508.0,
+            "RightMargin": 478.0,
+            "TopMargin": 532.5,
+            "BottomMargin": 78.5,
+            "Tag": 17,
+            "ActionTag": 1920930680,
+            "Size": {
+              "X": 150.0,
+              "Y": 29.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "checkBox2_login.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "checkBox2_login.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "checkBox2_login.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 11,
+            "Scale9Height": 11,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 90.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4225,
+              "Y": 0.1406
+            },
+            "PreSize": {
+              "X": 0.0361,
+              "Y": 0.0516
+            },
+            "LeftMargin": 459.5,
+            "RightMargin": 635.5,
+            "TopMargin": 533.5,
+            "BottomMargin": 73.5,
+            "Tag": 15,
+            "ActionTag": -716312631,
+            "Size": {
+              "X": 41.0,
+              "Y": 33.0
+            },
+            "Name": "select2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "icon20_login.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 116,
+            "Scale9OriginY": 43,
+            "Scale9Width": 296,
+            "Scale9Height": 116,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 559.0,
+              "Y": 418.2677
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4921,
+              "Y": 0.6535
+            },
+            "PreSize": {
+              "X": 0.4648,
+              "Y": 0.3156
+            },
+            "LeftMargin": 295.0,
+            "RightMargin": 313.0,
+            "TopMargin": 120.7323,
+            "BottomMargin": 317.2677,
+            "Tag": 22,
+            "ActionTag": -936281610,
+            "Size": {
+              "X": 528.0,
+              "Y": 202.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "youke_login2.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "youke_login2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "youke_login2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 413,
+            "Scale9Height": 138,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 562.0892,
+              "Y": 185.2187
+            },
+            "Scale": {
+              "ScaleX": 0.75,
+              "ScaleY": 0.75
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4948,
+              "Y": 0.2894
+            },
+            "PreSize": {
+              "X": 0.39,
+              "Y": 0.25
+            },
+            "LeftMargin": 340.5892,
+            "RightMargin": 352.4108,
+            "TopMargin": 374.7813,
+            "BottomMargin": 105.2187,
+            "Tag": 23,
+            "ActionTag": 1111115695,
+            "Size": {
+              "X": 443.0,
+              "Y": 160.0
+            },
+            "Name": "youke",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "checkBox1_login.png",
+        "checkBox2_login.png",
+        "icon20_login.png",
+        "login_wx1_login.png",
+        "youke_login2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

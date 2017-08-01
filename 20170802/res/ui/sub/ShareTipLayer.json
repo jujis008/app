@@ -1,0 +1,306 @@
+{
+  "ID": "0efa4e67-3d20-4cd8-bc52-1dd3989488e8",
+  "Version": "3.10.0.0",
+  "Name": "ShareTipLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 211,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "day_bg_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 54,
+            "Scale9OriginY": 55,
+            "Scale9Width": 58,
+            "Scale9Height": 58,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5282,
+              "Y": 0.4688
+            },
+            "LeftMargin": 268.0,
+            "RightMargin": 268.0,
+            "TopMargin": 170.0,
+            "BottomMargin": 170.0,
+            "Tag": 214,
+            "ActionTag": 1386271801,
+            "Size": {
+              "X": 600.0,
+              "Y": 300.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "pengyouquan_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "pengyouquan_sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "pengyouquan_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 96,
+            "Scale9Height": 156,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 418.6456,
+              "Y": 313.0113
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3685,
+              "Y": 0.4891
+            },
+            "PreSize": {
+              "X": 0.1109,
+              "Y": 0.2781
+            },
+            "LeftMargin": 355.6456,
+            "RightMargin": 654.3544,
+            "TopMargin": 237.9887,
+            "BottomMargin": 224.0113,
+            "Tag": 212,
+            "ActionTag": -646650996,
+            "Size": {
+              "X": 126.0,
+              "Y": 178.0
+            },
+            "Name": "quan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "haoyouqun_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "haoyouqun_sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "haoyouqun_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 156,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 698.2148,
+              "Y": 313.0113
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6146,
+              "Y": 0.4891
+            },
+            "PreSize": {
+              "X": 0.1144,
+              "Y": 0.2781
+            },
+            "LeftMargin": 633.2148,
+            "RightMargin": 372.7852,
+            "TopMargin": 237.9887,
+            "BottomMargin": 224.0113,
+            "Tag": 213,
+            "ActionTag": 1823202438,
+            "Size": {
+              "X": 130.0,
+              "Y": 178.0
+            },
+            "Name": "you",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guanbianniu.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "guanbianniu.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guanbianniu.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 863.8597,
+              "Y": 455.6342
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7604,
+              "Y": 0.7119
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 835.8597,
+            "RightMargin": 244.1403,
+            "TopMargin": 156.3658,
+            "BottomMargin": 427.6342,
+            "Tag": 215,
+            "ActionTag": -55769730,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "close",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "day_bg_sub.png",
+        "guanbianniu.png",
+        "haoyouqun_sub.png",
+        "pengyouquan_sub.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

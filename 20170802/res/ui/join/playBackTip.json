@@ -1,0 +1,1211 @@
+{
+  "ID": "049cda79-6193-4e1a-85b2-729a71e26b7e",
+  "Version": "3.10.0.0",
+  "Name": "playBackTip",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 136,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playback_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 217,
+            "Scale9OriginY": 164,
+            "Scale9Width": 625,
+            "Scale9Height": 267,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.3983,
+              "Y": 318.9972
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4977,
+              "Y": 0.4984
+            },
+            "PreSize": {
+              "X": 0.9322,
+              "Y": 0.9297
+            },
+            "LeftMargin": 35.8983,
+            "RightMargin": 41.1017,
+            "TopMargin": 23.5028,
+            "BottomMargin": 21.4972,
+            "Tag": 218,
+            "ActionTag": 1299367840,
+            "Size": {
+              "X": 1059.0,
+              "Y": 595.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playback_bg2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 165,
+            "Scale9OriginY": 163,
+            "Scale9Width": 170,
+            "Scale9Height": 168,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 307.8416,
+              "Y": 281.643
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.271,
+              "Y": 0.4401
+            },
+            "PreSize": {
+              "X": 0.4401,
+              "Y": 0.7719
+            },
+            "LeftMargin": 57.8416,
+            "RightMargin": 578.1583,
+            "TopMargin": 111.3569,
+            "BottomMargin": 34.643,
+            "Tag": 158,
+            "ActionTag": 2109152430,
+            "Size": {
+              "X": 500.0,
+              "Y": 494.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "join_ar.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 53,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 307.8416,
+              "Y": 281.6431
+            },
+            "Scale": {
+              "ScaleX": 1.5547,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.271,
+              "Y": 0.4401
+            },
+            "PreSize": {
+              "X": 0.2465,
+              "Y": 0.0562
+            },
+            "LeftMargin": 167.8416,
+            "RightMargin": 688.1583,
+            "TopMargin": 340.3569,
+            "BottomMargin": 263.6431,
+            "Tag": 174,
+            "ActionTag": -349734063,
+            "Size": {
+              "X": 280.0,
+              "Y": 36.0
+            },
+            "Name": "a1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_reset.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_reset.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_reset.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 97,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 659.9998,
+              "Y": 92.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.581,
+              "Y": 0.1437
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1859
+            },
+            "LeftMargin": 578.4998,
+            "RightMargin": 394.5002,
+            "TopMargin": 488.5,
+            "BottomMargin": 32.5,
+            "Tag": 175,
+            "ActionTag": -1989651687,
+            "Size": {
+              "X": 163.0,
+              "Y": 119.0
+            },
+            "Name": "b10",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_shuziqueding.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_shuziqueding.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_shuziqueding.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 999.9998,
+              "Y": 92.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8803,
+              "Y": 0.1437
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1844
+            },
+            "LeftMargin": 918.4998,
+            "RightMargin": 54.5002,
+            "TopMargin": 489.0,
+            "BottomMargin": 33.0,
+            "Tag": 176,
+            "ActionTag": 294859434,
+            "Size": {
+              "X": 163.0,
+              "Y": 118.0
+            },
+            "Name": "queren",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_7.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_7.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_7.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 659.9998,
+              "Y": 218.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.581,
+              "Y": 0.3406
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1844
+            },
+            "LeftMargin": 578.4998,
+            "RightMargin": 394.5002,
+            "TopMargin": 363.0001,
+            "BottomMargin": 159.0,
+            "Tag": 177,
+            "ActionTag": -532244697,
+            "Size": {
+              "X": 163.0,
+              "Y": 118.0
+            },
+            "Name": "b7",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_3.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_3.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_3.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 97,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 999.9998,
+              "Y": 470.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8803,
+              "Y": 0.7344
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1859
+            },
+            "LeftMargin": 918.4998,
+            "RightMargin": 54.5002,
+            "TopMargin": 110.5,
+            "BottomMargin": 410.5,
+            "Tag": 178,
+            "ActionTag": -1978554525,
+            "Size": {
+              "X": 163.0,
+              "Y": 119.0
+            },
+            "Name": "b3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_2.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 132,
+            "Scale9Height": 97,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 830.0,
+              "Y": 470.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7306,
+              "Y": 0.7344
+            },
+            "PreSize": {
+              "X": 0.1426,
+              "Y": 0.1859
+            },
+            "LeftMargin": 749.0,
+            "RightMargin": 225.0,
+            "TopMargin": 110.5,
+            "BottomMargin": 410.5,
+            "Tag": 179,
+            "ActionTag": 111900310,
+            "Size": {
+              "X": 162.0,
+              "Y": 119.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_1.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_1.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 97,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 659.9998,
+              "Y": 470.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.581,
+              "Y": 0.7344
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1859
+            },
+            "LeftMargin": 578.4998,
+            "RightMargin": 394.5002,
+            "TopMargin": 110.5,
+            "BottomMargin": 410.5,
+            "Tag": 180,
+            "ActionTag": 1037301952,
+            "Size": {
+              "X": 163.0,
+              "Y": 119.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_5.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_5.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_5.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 132,
+            "Scale9Height": 97,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 830.0001,
+              "Y": 342.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7306,
+              "Y": 0.5359
+            },
+            "PreSize": {
+              "X": 0.1426,
+              "Y": 0.1859
+            },
+            "LeftMargin": 749.0001,
+            "RightMargin": 224.9999,
+            "TopMargin": 237.5002,
+            "BottomMargin": 283.4998,
+            "Tag": 181,
+            "ActionTag": 1262656883,
+            "Size": {
+              "X": 162.0,
+              "Y": 119.0
+            },
+            "Name": "b5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_8.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_8.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_8.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.9998,
+              "Y": 218.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7306,
+              "Y": 0.3406
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1844
+            },
+            "LeftMargin": 748.4998,
+            "RightMargin": 224.5002,
+            "TopMargin": 363.0001,
+            "BottomMargin": 159.0,
+            "Tag": 182,
+            "ActionTag": 839255902,
+            "Size": {
+              "X": 163.0,
+              "Y": 118.0
+            },
+            "Name": "b8",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_6.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_6.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_6.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 97,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 999.9998,
+              "Y": 342.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8803,
+              "Y": 0.5359
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1859
+            },
+            "LeftMargin": 918.4998,
+            "RightMargin": 54.5002,
+            "TopMargin": 237.5002,
+            "BottomMargin": 283.4998,
+            "Tag": 183,
+            "ActionTag": -1072405993,
+            "Size": {
+              "X": 163.0,
+              "Y": 119.0
+            },
+            "Name": "b6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_4.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_4.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_4.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 659.9998,
+              "Y": 342.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.581,
+              "Y": 0.5359
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1844
+            },
+            "LeftMargin": 578.4998,
+            "RightMargin": 394.5002,
+            "TopMargin": 238.0001,
+            "BottomMargin": 283.9999,
+            "Tag": 184,
+            "ActionTag": 128919137,
+            "Size": {
+              "X": 163.0,
+              "Y": 118.0
+            },
+            "Name": "b4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_0.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_0.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_0.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.9998,
+              "Y": 92.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7306,
+              "Y": 0.1437
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1844
+            },
+            "LeftMargin": 748.4998,
+            "RightMargin": 224.5002,
+            "TopMargin": 489.0,
+            "BottomMargin": 33.0,
+            "Tag": 185,
+            "ActionTag": 1164939023,
+            "Size": {
+              "X": 163.0,
+              "Y": 118.0
+            },
+            "Name": "b0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "join_9.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "join_9.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "join_9.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 133,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 999.9998,
+              "Y": 218.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8803,
+              "Y": 0.3406
+            },
+            "PreSize": {
+              "X": 0.1435,
+              "Y": 0.1844
+            },
+            "LeftMargin": 918.4998,
+            "RightMargin": 54.5002,
+            "TopMargin": 363.0001,
+            "BottomMargin": 159.0,
+            "Tag": 186,
+            "ActionTag": -570681134,
+            "Size": {
+              "X": 163.0,
+              "Y": 118.0
+            },
+            "Name": "b9",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guanbi_join.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "guanbi_join.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guanbi_join.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1094.9934,
+              "Y": 585.3061
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9639,
+              "Y": 0.9145
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 1066.9934,
+            "RightMargin": 13.0066,
+            "TopMargin": 26.6939,
+            "BottomMargin": 557.3061,
+            "Tag": 189,
+            "ActionTag": 1397913530,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 40,
+            "LabelText": "12345678901234567890",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 100.386,
+              "Y": 281.643
+            },
+            "Scale": {
+              "ScaleX": 0.9324,
+              "ScaleY": 1.0836
+            },
+            "CColor": {
+              "R": 161,
+              "G": 51,
+              "B": 4
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0884,
+              "Y": 0.4401
+            },
+            "PreSize": {
+              "X": 0.3917,
+              "Y": 0.0703
+            },
+            "LeftMargin": 100.386,
+            "RightMargin": 590.614,
+            "TopMargin": 335.857,
+            "BottomMargin": 259.143,
+            "Tag": 190,
+            "ActionTag": 1502981342,
+            "Size": {
+              "X": 445.0,
+              "Y": 45.0
+            },
+            "Name": "code",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "guanbi_join.png",
+        "join_0.png",
+        "join_1.png",
+        "join_2.png",
+        "join_3.png",
+        "join_4.png",
+        "join_5.png",
+        "join_6.png",
+        "join_7.png",
+        "join_8.png",
+        "join_9.png",
+        "join_ar.png",
+        "join_reset.png",
+        "join_shuziqueding.png",
+        "playback_bg.png",
+        "playback_bg2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

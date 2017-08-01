@@ -1,0 +1,183 @@
+{
+  "ID": "87d3acc4-e6f8-4522-9519-b12240a7e1ab",
+  "Version": "3.10.0.0",
+  "Name": "centerReady",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 222,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengchakanjieguo_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengchakanjieguo_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengchakanjieguo_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 231,
+            "Scale9Height": 65,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 707.9988,
+              "Y": 256.5282
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6232,
+              "Y": 0.4008
+            },
+            "PreSize": {
+              "X": 0.2298,
+              "Y": 0.1359
+            },
+            "LeftMargin": 577.4988,
+            "RightMargin": 297.5012,
+            "TopMargin": 339.9718,
+            "BottomMargin": 213.0282,
+            "Tag": 225,
+            "ActionTag": 1555668925,
+            "Size": {
+              "X": 261.0,
+              "Y": 87.0
+            },
+            "Name": "chakan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 231,
+            "Scale9Height": 65,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 437.9993,
+              "Y": 256.53
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3856,
+              "Y": 0.4008
+            },
+            "PreSize": {
+              "X": 0.2298,
+              "Y": 0.1359
+            },
+            "LeftMargin": 307.4993,
+            "RightMargin": 567.5007,
+            "TopMargin": 339.97,
+            "BottomMargin": 213.03,
+            "Tag": 226,
+            "ActionTag": 744544089,
+            "Size": {
+              "X": 261.0,
+              "Y": 87.0
+            },
+            "Name": "zhunbei",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "chakanjieguo_room.png",
+        "zhunbei_room.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,259 @@
+{
+  "ID": "1f39dc00-af63-43f8-9266-1ac8d0810939",
+  "Version": "3.10.0.0",
+  "Name": "rightTop",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 469,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbtn_text_applydis_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbtn_text_applydis_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbtn_text_applydis_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 218,
+            "Scale9Height": 75,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 896.7968,
+              "Y": 599.8816
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7894,
+              "Y": 0.9373
+            },
+            "PreSize": {
+              "X": 0.2183,
+              "Y": 0.1516
+            },
+            "LeftMargin": 772.7968,
+            "RightMargin": 115.2032,
+            "TopMargin": -8.3816,
+            "BottomMargin": 551.3816,
+            "Tag": 122,
+            "ActionTag": -1435493331,
+            "Size": {
+              "X": 248.0,
+              "Y": 97.0
+            },
+            "Name": "jiesan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbutton_chat_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbutton_chat_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbutton_chat_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 35,
+            "Scale9Height": 33,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1018.6981,
+              "Y": 599.8813
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8967,
+              "Y": 0.9373
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1125
+            },
+            "LeftMargin": 982.6981,
+            "RightMargin": 81.3019,
+            "TopMargin": 4.1187,
+            "BottomMargin": 563.8813,
+            "Tag": 123,
+            "ActionTag": -1950936313,
+            "Size": {
+              "X": 72.0,
+              "Y": 72.0
+            },
+            "Name": "msg",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbtn_setting_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbtn_setting_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbtn_setting_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 35,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1092.4689,
+              "Y": 599.8813
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9617,
+              "Y": 0.9373
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1125
+            },
+            "LeftMargin": 1056.4689,
+            "RightMargin": 7.5311,
+            "TopMargin": 4.1187,
+            "BottomMargin": 563.8813,
+            "Tag": 124,
+            "ActionTag": 1340325196,
+            "Size": {
+              "X": 72.0,
+              "Y": 72.0
+            },
+            "Name": "Button_31",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "btn_setting_room.png",
+        "btn_text_applydis_room.png",
+        "button_chat_room.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

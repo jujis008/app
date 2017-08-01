@@ -1,0 +1,170 @@
+{
+  "ID": "7f8cefcf-4718-4130-a7e8-29befda19dfb",
+  "Version": "3.10.0.0",
+  "Name": "chiLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 52,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengchipai_bg_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 78,
+            "Scale9OriginY": 74,
+            "Scale9Width": 83,
+            "Scale9Height": 79,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 12.4984,
+              "Y": 19.3954
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.011,
+              "Y": 0.0303
+            },
+            "PreSize": {
+              "X": 0.088,
+              "Y": 0.2344
+            },
+            "LeftMargin": -37.5016,
+            "RightMargin": 1073.5016,
+            "TopMargin": 545.6046,
+            "BottomMargin": -55.6046,
+            "Tag": 53,
+            "ActionTag": 1435340597,
+            "Size": {
+              "X": 100.0,
+              "Y": 150.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengchipai_zi.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 22,
+            "Scale9Width": 42,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 10.6063,
+              "Y": 114.7845
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0093,
+              "Y": 0.1794
+            },
+            "PreSize": {
+              "X": 0.1056,
+              "Y": 0.1047
+            },
+            "LeftMargin": -49.3937,
+            "RightMargin": 1065.3937,
+            "TopMargin": 491.7155,
+            "BottomMargin": 81.2845,
+            "Tag": 54,
+            "ActionTag": 912052003,
+            "Size": {
+              "X": 120.0,
+              "Y": 67.0
+            },
+            "Name": "chi",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengbipai1_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 37,
+            "Scale9OriginY": 24,
+            "Scale9Width": 39,
+            "Scale9Height": 26,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 10.606,
+              "Y": 117.7816
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0093,
+              "Y": 0.184
+            },
+            "PreSize": {
+              "X": 0.0995,
+              "Y": 0.1156
+            },
+            "LeftMargin": -45.894,
+            "RightMargin": 1068.894,
+            "TopMargin": 485.2184,
+            "BottomMargin": 80.7816,
+            "Tag": 55,
+            "ActionTag": -579590929,
+            "Size": {
+              "X": 113.0,
+              "Y": 74.0
+            },
+            "Name": "bi",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bipai1_room.png",
+        "chipai_bg_room.png",
+        "chipai_zi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

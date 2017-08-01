@@ -1,0 +1,1351 @@
+{
+  "ID": "324eaf6a-0a8b-47f5-ac92-b6c4a9aa0e88",
+  "Version": "3.10.0.0",
+  "Name": "readyLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 17,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 112,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0007,
+              "Y": 449.1611
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7018
+            },
+            "PreSize": {
+              "X": 0.0819,
+              "Y": 0.2094
+            },
+            "LeftMargin": 521.5007,
+            "RightMargin": 521.4993,
+            "TopMargin": 123.8389,
+            "BottomMargin": 382.1611,
+            "Tag": 19,
+            "ActionTag": -63773664,
+            "Size": {
+              "X": 93.0,
+              "Y": 134.0
+            },
+            "Name": "a3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 112,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 950.0039,
+              "Y": 320.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8363,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0819,
+              "Y": 0.2094
+            },
+            "LeftMargin": 903.5039,
+            "RightMargin": 139.4961,
+            "TopMargin": 252.9997,
+            "BottomMargin": 253.0003,
+            "Tag": 20,
+            "ActionTag": -237873424,
+            "Size": {
+              "X": 93.0,
+              "Y": 134.0
+            },
+            "Name": "a2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 112,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0015,
+              "Y": 147.4433
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2304
+            },
+            "PreSize": {
+              "X": 0.0819,
+              "Y": 0.2094
+            },
+            "LeftMargin": 521.5015,
+            "RightMargin": 521.4985,
+            "TopMargin": 425.5567,
+            "BottomMargin": 80.4433,
+            "Tag": 21,
+            "ActionTag": -1420133499,
+            "Size": {
+              "X": 93.0,
+              "Y": 134.0
+            },
+            "Name": "a1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengjiajia_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 112,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 186.0023,
+              "Y": 320.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1637,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0819,
+              "Y": 0.2094
+            },
+            "LeftMargin": 139.5023,
+            "RightMargin": 903.4977,
+            "TopMargin": 252.9997,
+            "BottomMargin": 253.0003,
+            "Tag": 22,
+            "ActionTag": 1013512609,
+            "Size": {
+              "X": 93.0,
+              "Y": 134.0
+            },
+            "Name": "a4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengUIFriends_003_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengUIFriends_003_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengUIFriends_003_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 151,
+            "Scale9Height": 59,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.1593,
+              "Y": 0.1266
+            },
+            "LeftMargin": 477.5,
+            "RightMargin": 477.5,
+            "TopMargin": 279.5,
+            "BottomMargin": 279.5,
+            "Tag": 23,
+            "ActionTag": 835724744,
+            "Size": {
+              "X": 181.0,
+              "Y": 81.0
+            },
+            "Name": "yaoqing",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 141,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.1505,
+              "Y": 0.1172
+            },
+            "LeftMargin": 482.5,
+            "RightMargin": 482.5,
+            "TopMargin": 282.5,
+            "BottomMargin": 282.5,
+            "Tag": 24,
+            "ActionTag": -1184738818,
+            "Size": {
+              "X": 171.0,
+              "Y": 75.0
+            },
+            "Name": "zhunbei",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei1_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 32,
+            "Scale9OriginY": 19,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 564.9175,
+              "Y": 58.6166
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4973,
+              "Y": 0.0916
+            },
+            "PreSize": {
+              "X": 0.0863,
+              "Y": 0.0906
+            },
+            "LeftMargin": 515.9175,
+            "RightMargin": 522.0825,
+            "TopMargin": 552.3834,
+            "BottomMargin": 29.6166,
+            "Tag": 25,
+            "ActionTag": -1661921414,
+            "Size": {
+              "X": 98.0,
+              "Y": 58.0
+            },
+            "Name": "b1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei1_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 32,
+            "Scale9OriginY": 19,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1047.7616,
+              "Y": 320.0015
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9223,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0863,
+              "Y": 0.0906
+            },
+            "LeftMargin": 998.7616,
+            "RightMargin": 39.2384,
+            "TopMargin": 290.9985,
+            "BottomMargin": 291.0015,
+            "Tag": 26,
+            "ActionTag": -917990299,
+            "Size": {
+              "X": 98.0,
+              "Y": 58.0
+            },
+            "Name": "b2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei1_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 32,
+            "Scale9OriginY": 19,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 564.749,
+              "Y": 542.2867
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4971,
+              "Y": 0.8473
+            },
+            "PreSize": {
+              "X": 0.0863,
+              "Y": 0.0906
+            },
+            "LeftMargin": 515.749,
+            "RightMargin": 522.251,
+            "TopMargin": 68.7133,
+            "BottomMargin": 513.2867,
+            "Tag": 27,
+            "ActionTag": 770486311,
+            "Size": {
+              "X": 98.0,
+              "Y": 58.0
+            },
+            "Name": "b3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengzhunbei1_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 32,
+            "Scale9OriginY": 19,
+            "Scale9Width": 34,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 92.9317,
+              "Y": 320.0015
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0818,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0863,
+              "Y": 0.0906
+            },
+            "LeftMargin": 43.9317,
+            "RightMargin": 994.0683,
+            "TopMargin": 290.9985,
+            "BottomMargin": 291.0015,
+            "Tag": 28,
+            "ActionTag": 637757094,
+            "Size": {
+              "X": 98.0,
+              "Y": 58.0
+            },
+            "Name": "b4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 35,
+            "LabelText": "可接炮，自摸翻倍",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.9999,
+              "Y": 586.8998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 136,
+              "G": 96,
+              "B": 9
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.917
+            },
+            "PreSize": {
+              "X": 0.7042,
+              "Y": 0.1563
+            },
+            "LeftMargin": 167.9999,
+            "RightMargin": 168.0001,
+            "TopMargin": 3.1002,
+            "BottomMargin": 536.8998,
+            "Tag": 29,
+            "ActionTag": -343664623,
+            "Size": {
+              "X": 800.0,
+              "Y": 100.0
+            },
+            "Name": "des",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 631.8953,
+              "Y": 490.2644
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5562,
+              "Y": 0.766
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 631.8953,
+            "RightMargin": 204.1047,
+            "TopMargin": 132.7356,
+            "BottomMargin": 473.2644,
+            "Tag": 53,
+            "ActionTag": 791836543,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "name3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 633.8259,
+              "Y": 425.7916
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5579,
+              "Y": 0.6653
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 633.8259,
+            "RightMargin": 202.1741,
+            "TopMargin": 197.2084,
+            "BottomMargin": 408.7916,
+            "Tag": 54,
+            "ActionTag": 1795120899,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "ip3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 627.774,
+              "Y": 181.6691
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5526,
+              "Y": 0.2839
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 627.774,
+            "RightMargin": 208.226,
+            "TopMargin": 441.3309,
+            "BottomMargin": 164.6691,
+            "Tag": 55,
+            "ActionTag": -290566913,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "name1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.7045,
+              "Y": 117.1962
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5543,
+              "Y": 0.1831
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 629.7045,
+            "RightMargin": 206.2955,
+            "TopMargin": 505.8038,
+            "BottomMargin": 100.1962,
+            "Tag": 56,
+            "ActionTag": -1768710497,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "ip1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 893.6718,
+              "Y": 353.2494
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7867,
+              "Y": 0.552
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 593.6718,
+            "RightMargin": 242.3282,
+            "TopMargin": 269.7506,
+            "BottomMargin": 336.2494,
+            "Tag": 57,
+            "ActionTag": -1155273151,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "name2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 893.6718,
+              "Y": 292.8116
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7867,
+              "Y": 0.4575
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 593.6718,
+            "RightMargin": 242.3282,
+            "TopMargin": 330.1884,
+            "BottomMargin": 275.8116,
+            "Tag": 58,
+            "ActionTag": -1450008451,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "ip2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 239.0223,
+              "Y": 355.2667
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2104,
+              "Y": 0.5551
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 239.0223,
+            "RightMargin": 596.9777,
+            "TopMargin": 267.7333,
+            "BottomMargin": 338.2667,
+            "Tag": 59,
+            "ActionTag": 722651187,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "name4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "按时大大",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.9531,
+              "Y": 290.7946
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2121,
+              "Y": 0.4544
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0531
+            },
+            "LeftMargin": 240.9531,
+            "RightMargin": 595.0469,
+            "TopMargin": 332.2054,
+            "BottomMargin": 273.7946,
+            "Tag": 60,
+            "ActionTag": -151210636,
+            "Size": {
+              "X": 300.0,
+              "Y": 34.0
+            },
+            "Name": "ip4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchenglixian_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 15,
+            "Scale9Width": 26,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.6343,
+              "Y": 184.9167
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5006,
+              "Y": 0.2889
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.0719
+            },
+            "LeftMargin": 531.6343,
+            "RightMargin": 530.3657,
+            "TopMargin": 432.0833,
+            "BottomMargin": 161.9167,
+            "Tag": 63,
+            "ActionTag": 781849299,
+            "Size": {
+              "X": 74.0,
+              "Y": 46.0
+            },
+            "Name": "d1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchenglixian_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 15,
+            "Scale9Width": 26,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 949.5493,
+              "Y": 355.7052
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8359,
+              "Y": 0.5558
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.0719
+            },
+            "LeftMargin": 912.5493,
+            "RightMargin": 149.4507,
+            "TopMargin": 261.2948,
+            "BottomMargin": 332.7052,
+            "Tag": 64,
+            "ActionTag": -1658943059,
+            "Size": {
+              "X": 74.0,
+              "Y": 46.0
+            },
+            "Name": "d2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchenglixian_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 15,
+            "Scale9Width": 26,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 569.1966,
+              "Y": 489.2401
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.7644
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.0719
+            },
+            "LeftMargin": 532.1966,
+            "RightMargin": 529.8034,
+            "TopMargin": 127.7599,
+            "BottomMargin": 466.2401,
+            "Tag": 65,
+            "ActionTag": -988915288,
+            "Size": {
+              "X": 74.0,
+              "Y": 46.0
+            },
+            "Name": "d3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchenglixian_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 15,
+            "Scale9Width": 26,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 185.3232,
+              "Y": 358.4231
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1631,
+              "Y": 0.56
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.0719
+            },
+            "LeftMargin": 148.3232,
+            "RightMargin": 913.6768,
+            "TopMargin": 258.5769,
+            "BottomMargin": 335.4231,
+            "Tag": 66,
+            "ActionTag": 1360323786,
+            "Size": {
+              "X": 74.0,
+              "Y": 46.0
+            },
+            "Name": "d4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "正在等待其他玩家进入或准备",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 250.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3922
+            },
+            "PreSize": {
+              "X": 0.3433,
+              "Y": 0.0531
+            },
+            "LeftMargin": 373.0,
+            "RightMargin": 373.0,
+            "TopMargin": 372.01,
+            "BottomMargin": 233.99,
+            "Tag": 67,
+            "ActionTag": 1693993424,
+            "Size": {
+              "X": 390.0,
+              "Y": 34.0
+            },
+            "Alpha": 166,
+            "Name": "Text_12",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "jiajia_room.png",
+        "lixian_room.png",
+        "UIFriends_003_room.png",
+        "zhunbei_room.png",
+        "zhunbei1_room.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

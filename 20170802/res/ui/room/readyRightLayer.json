@@ -1,0 +1,189 @@
+{
+  "ID": "f5556e84-678e-47e4-9283-924758dc2ab1",
+  "Version": "3.10.0.0",
+  "Name": "readyRightLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 50,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room_fuchengfangjianhao1_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 60,
+            "Scale9OriginY": 39,
+            "Scale9Width": 63,
+            "Scale9Height": 43,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.3373,
+              "Y": 584.7184
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9211,
+              "Y": 0.9136
+            },
+            "PreSize": {
+              "X": 0.1611,
+              "Y": 0.1891
+            },
+            "LeftMargin": 954.8373,
+            "RightMargin": -1.8373,
+            "TopMargin": -5.2184,
+            "BottomMargin": 524.2184,
+            "Tag": 68,
+            "ActionTag": -384293219,
+            "Size": {
+              "X": 183.0,
+              "Y": 121.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "郴州字牌:3人",
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1129.9423,
+              "Y": 503.9453
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 212,
+              "G": 166,
+              "B": 27
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9947,
+              "Y": 0.7874
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0781
+            },
+            "LeftMargin": 829.9423,
+            "RightMargin": 6.0577,
+            "TopMargin": 111.0547,
+            "BottomMargin": 478.9453,
+            "Tag": 61,
+            "ActionTag": 2031388847,
+            "Size": {
+              "X": 300.0,
+              "Y": 50.0
+            },
+            "Name": "title",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "123456789",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1044.282,
+              "Y": 560.1168
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 212,
+              "G": 166,
+              "B": 27
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9193,
+              "Y": 0.8752
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0781
+            },
+            "LeftMargin": 944.282,
+            "RightMargin": -8.282,
+            "TopMargin": 54.8832,
+            "BottomMargin": 535.1168,
+            "Tag": 62,
+            "ActionTag": -1855908558,
+            "Size": {
+              "X": 200.0,
+              "Y": 50.0
+            },
+            "Name": "room",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fangjianhao1_room.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

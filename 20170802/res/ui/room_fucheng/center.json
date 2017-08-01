@@ -1,0 +1,599 @@
+{
+  "ID": "c98870c9-33b6-4319-9537-a93adc7b742b",
+  "Version": "3.10.0.0",
+  "Name": "center",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 475,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shangpaidikuang.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 116,
+            "Scale9OriginY": 25,
+            "Scale9Width": 167,
+            "Scale9Height": 19,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.9999,
+              "Y": 605.89
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9467
+            },
+            "PreSize": {
+              "X": 0.3512,
+              "Y": 0.1078
+            },
+            "LeftMargin": 368.4999,
+            "RightMargin": 368.5001,
+            "TopMargin": -0.39,
+            "BottomMargin": 571.39,
+            "Tag": 62,
+            "ActionTag": -981690202,
+            "Size": {
+              "X": 399.0,
+              "Y": 69.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "box_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 31,
+            "Scale9Width": 32,
+            "Scale9Height": 34,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.9999,
+              "Y": 499.5138
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7805
+            },
+            "PreSize": {
+              "X": 0.0827,
+              "Y": 0.15
+            },
+            "LeftMargin": 520.9999,
+            "RightMargin": 521.0001,
+            "TopMargin": 92.4862,
+            "BottomMargin": 451.5138,
+            "Tag": 50,
+            "ActionTag": 1139070747,
+            "Size": {
+              "X": 94.0,
+              "Y": 96.0
+            },
+            "Name": "dui",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "80",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 626.5854,
+              "Y": 510.1237
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5516,
+              "Y": 0.7971
+            },
+            "PreSize": {
+              "X": 0.0264,
+              "Y": 0.0469
+            },
+            "LeftMargin": 611.5854,
+            "RightMargin": 494.4146,
+            "TopMargin": 114.8763,
+            "BottomMargin": 495.1237,
+            "Tag": 51,
+            "ActionTag": -574521968,
+            "Size": {
+              "X": 30.0,
+              "Y": 30.0
+            },
+            "Name": "count",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "card_room.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 10,
+            "Scale9Width": 13,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 569.3735,
+              "Y": 488.8757
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5012,
+              "Y": 0.7639
+            },
+            "PreSize": {
+              "X": 0.0326,
+              "Y": 0.0516
+            },
+            "LeftMargin": 550.8735,
+            "RightMargin": 548.1265,
+            "TopMargin": 134.6243,
+            "BottomMargin": 472.3757,
+            "Tag": 85,
+            "ActionTag": 92121145,
+            "Size": {
+              "X": 37.0,
+              "Y": 33.0
+            },
+            "Name": "card1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "btn_setting_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "btn_setting_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "btn_setting_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.5971,
+              "Y": 607.3762
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4451,
+              "Y": 0.949
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0969
+            },
+            "LeftMargin": 474.0971,
+            "RightMargin": 598.9029,
+            "TopMargin": 1.6238,
+            "BottomMargin": 576.3762,
+            "Tag": 59,
+            "ActionTag": 2036306073,
+            "Size": {
+              "X": 63.0,
+              "Y": 62.0
+            },
+            "Name": "set",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "paixu_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "paixu_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "paixu_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 708.6218,
+              "Y": 607.3762
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6238,
+              "Y": 0.949
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0969
+            },
+            "LeftMargin": 677.1218,
+            "RightMargin": 395.8782,
+            "TopMargin": 1.6238,
+            "BottomMargin": 576.3762,
+            "Tag": 60,
+            "ActionTag": -613308561,
+            "Size": {
+              "X": 63.0,
+              "Y": 62.0
+            },
+            "Name": "paixu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "tuichu_room.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "tuichu_room.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "tuichu_room.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 417.834,
+              "Y": 607.3757
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3678,
+              "Y": 0.949
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0969
+            },
+            "LeftMargin": 386.334,
+            "RightMargin": 686.666,
+            "TopMargin": 1.6243,
+            "BottomMargin": 576.3757,
+            "Tag": 61,
+            "ActionTag": -334443812,
+            "Size": {
+              "X": 63.0,
+              "Y": 62.0
+            },
+            "Name": "exit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "shijiandianliangditu.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 32,
+            "Scale9OriginY": 20,
+            "Scale9Width": 34,
+            "Scale9Height": 23,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 604.8593,
+              "Y": 607.376
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5324,
+              "Y": 0.949
+            },
+            "PreSize": {
+              "X": 0.0863,
+              "Y": 0.0984
+            },
+            "LeftMargin": 555.8593,
+            "RightMargin": 482.1407,
+            "TopMargin": 1.124,
+            "BottomMargin": 575.876,
+            "Tag": 65,
+            "ActionTag": -954236390,
+            "Size": {
+              "X": 98.0,
+              "Y": 63.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "17:33000",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 600.9999,
+              "Y": 618.7504
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.529,
+              "Y": 0.9668
+            },
+            "PreSize": {
+              "X": 0.0704,
+              "Y": 0.0312
+            },
+            "LeftMargin": 560.9999,
+            "RightMargin": 495.0001,
+            "TopMargin": 11.2496,
+            "BottomMargin": 608.7504,
+            "Tag": 66,
+            "ActionTag": -2096082210,
+            "Size": {
+              "X": 80.0,
+              "Y": 20.0
+            },
+            "Name": "t",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "双神",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 491.0,
+              "Y": 508.6454
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4322,
+              "Y": 0.7948
+            },
+            "PreSize": {
+              "X": 0.0528,
+              "Y": 0.0469
+            },
+            "LeftMargin": 461.0,
+            "RightMargin": 615.0,
+            "TopMargin": 116.3546,
+            "BottomMargin": 493.6454,
+            "Tag": 66,
+            "ActionTag": -1615976648,
+            "Size": {
+              "X": 60.0,
+              "Y": 30.0
+            },
+            "Name": "shen",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "box_room.png",
+        "btn_setting_room.png",
+        "card_room.png",
+        "paixu_room.png",
+        "shangpaidikuang.png",
+        "shijiandianliangditu.png",
+        "tuichu_room.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

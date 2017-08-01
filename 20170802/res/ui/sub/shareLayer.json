@@ -1,0 +1,381 @@
+{
+  "ID": "a3df23bc-0fdd-41e0-80aa-7b874935eab0",
+  "Version": "3.10.0.0",
+  "Name": "shareLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 227,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "day_bg_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 54,
+            "Scale9OriginY": 55,
+            "Scale9Width": 583,
+            "Scale9Height": 328,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6162,
+              "Y": 0.625
+            },
+            "LeftMargin": 218.0,
+            "RightMargin": 218.0,
+            "TopMargin": 120.0,
+            "BottomMargin": 120.0,
+            "Tag": 271,
+            "ActionTag": -1245814660,
+            "Size": {
+              "X": 700.0,
+              "Y": 400.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "ButtonText": "一键复制",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 218,
+            "Scale9Height": 75,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.0214,
+              "Y": 171.4965
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5643,
+              "Y": 0.268
+            },
+            "PreSize": {
+              "X": 0.2183,
+              "Y": 0.1516
+            },
+            "LeftMargin": 517.0214,
+            "RightMargin": 370.9786,
+            "TopMargin": 420.0035,
+            "BottomMargin": 122.9965,
+            "Tag": 278,
+            "ActionTag": 832761692,
+            "Size": {
+              "X": 248.0,
+              "Y": 97.0
+            },
+            "Name": "copy",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "ButtonText": "退出",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "faststart_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 218,
+            "Scale9Height": 75,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 818.2241,
+              "Y": 171.4965
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7203,
+              "Y": 0.268
+            },
+            "PreSize": {
+              "X": 0.2183,
+              "Y": 0.1516
+            },
+            "LeftMargin": 694.2241,
+            "RightMargin": 193.7759,
+            "TopMargin": 420.0035,
+            "BottomMargin": 122.9965,
+            "Tag": 279,
+            "ActionTag": 1616759548,
+            "Size": {
+              "X": 248.0,
+              "Y": 97.0
+            },
+            "Name": "close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "haoyouqun_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "haoyouqun_sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "haoyouqun_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 100,
+            "Scale9Height": 156,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 394.0705,
+              "Y": 313.8244
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3469,
+              "Y": 0.4904
+            },
+            "PreSize": {
+              "X": 0.1144,
+              "Y": 0.2781
+            },
+            "LeftMargin": 329.0705,
+            "RightMargin": 676.9295,
+            "TopMargin": 237.1756,
+            "BottomMargin": 224.8244,
+            "Tag": 545,
+            "ActionTag": -1288222975,
+            "Size": {
+              "X": 130.0,
+              "Y": 178.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "pengyouquan_sub.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "pengyouquan_sub.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "pengyouquan_sub.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 96,
+            "Scale9Height": 156,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 689.3899,
+              "Y": 307.9434
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6069,
+              "Y": 0.4812
+            },
+            "PreSize": {
+              "X": 0.1109,
+              "Y": 0.2781
+            },
+            "LeftMargin": 626.3899,
+            "RightMargin": 383.6101,
+            "TopMargin": 243.0566,
+            "BottomMargin": 218.9434,
+            "Tag": 546,
+            "ActionTag": 2138877140,
+            "Size": {
+              "X": 126.0,
+              "Y": 178.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "day_bg_sub.png",
+        "faststart_sub.png",
+        "haoyouqun_sub.png",
+        "pengyouquan_sub.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
