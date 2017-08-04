@@ -40,6 +40,12 @@ var RuleLayer=cc.Layer.extend({
         b.addTouchEventListener(this.closeClicked,this);
         b.setLocalZOrder(UI_ZODER+10);
 
+        this.huaihua= ccui.helper.seekWidgetByName(node, "huaihua");
+        if (this.huaihua != null) {
+            this.huaihua.addTouchEventListener(this.buClicked,this);
+            this.buClicked(this.huaihua,ccui.Widget.TOUCH_ENDED);
+        }
+
         this.bopi= ccui.helper.seekWidgetByName(node, "bopi");
         if (this.bopi != null) {
             this.bopi.addTouchEventListener(this.buClicked,this);
@@ -98,13 +104,6 @@ var RuleLayer=cc.Layer.extend({
         if (this.guilin != null) {
             this.guilin.addTouchEventListener(this.buClicked,this);
         }
-
-        this.huaihua= ccui.helper.seekWidgetByName(node, "huaihua");
-        if (this.huaihua != null) {
-            this.huaihua.addTouchEventListener(this.buClicked,this);
-            this.buClicked(this.huaihua,ccui.Widget.TOUCH_ENDED);
-        }
-
 
         this.hongheihu= ccui.helper.seekWidgetByName(node, "hongheihu");
         if (this.hongheihu != null) {
