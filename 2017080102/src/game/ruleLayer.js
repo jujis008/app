@@ -43,7 +43,6 @@ var RuleLayer=cc.Layer.extend({
         this.huaihua= ccui.helper.seekWidgetByName(node, "huaihua");
         if (this.huaihua != null) {
             this.huaihua.addTouchEventListener(this.buClicked,this);
-            this.buClicked(this.huaihua,ccui.Widget.TOUCH_ENDED);
         }
 
         this.bopi= ccui.helper.seekWidgetByName(node, "bopi");
@@ -76,7 +75,7 @@ var RuleLayer=cc.Layer.extend({
         this.loudi= ccui.helper.seekWidgetByName(node, "loudi");
         if (this.loudi != null) {
             this.loudi.addTouchEventListener(this.buClicked,this);
-            this.buClicked(this.loudi,ccui.Widget.TOUCH_ENDED);
+            
         }
 
         this.waihuzi= ccui.helper.seekWidgetByName(node, "waihuzi");
@@ -120,6 +119,13 @@ var RuleLayer=cc.Layer.extend({
             this.dazipai.addTouchEventListener(this.buClicked,this);
         }
 
+        if (this.loudi != null) {
+            this.buClicked(this.loudi,ccui.Widget.TOUCH_ENDED);
+        } else if (this.huaihua != null) {
+            this.buClicked(this.huaihua,ccui.Widget.TOUCH_ENDED);
+        } else {
+            console.log("没有可以初始化的房间!");
+        }
 
     },
     closeClicked:function(sender, type)
