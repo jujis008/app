@@ -41,56 +41,86 @@ var RuleLayer=cc.Layer.extend({
         b.setLocalZOrder(UI_ZODER+10);
 
         this.bopi= ccui.helper.seekWidgetByName(node, "bopi");
-        this.bopi.addTouchEventListener(this.buClicked,this);
+        if (this.bopi != null) {
+            this.bopi.addTouchEventListener(this.buClicked,this);
+        }
 
         this.honghu= ccui.helper.seekWidgetByName(node, "honghuzi");
-        this.honghu.addTouchEventListener(this.buClicked,this);
+        if (this.honghu != null) {
+            this.honghu.addTouchEventListener(this.buClicked,this);
+        }
 
         this.binzhou= ccui.helper.seekWidgetByName(node, "binzhou");
-        this.binzhou.addTouchEventListener(this.buClicked,this);
+        if (this.binzhou != null) {
+            this.binzhou.addTouchEventListener(this.buClicked,this);
+        }
 
 
         this.gaohuzi= ccui.helper.seekWidgetByName(node, "gaohuzi");
-        this.gaohuzi.addTouchEventListener(this.buClicked,this);
+        if (this.gaohuzi != null) {
+            this.gaohuzi.addTouchEventListener(this.buClicked,this);
+        }
 
 
         this.yongxing= ccui.helper.seekWidgetByName(node, "yongxing");
-        this.yongxing.addTouchEventListener(this.buClicked,this);
+        if (this.yongxing != null) {
+            this.yongxing.addTouchEventListener(this.buClicked,this);
+        }
 
         this.loudi= ccui.helper.seekWidgetByName(node, "loudi");
-        this.loudi.addTouchEventListener(this.buClicked,this);
+        if (this.loudi != null) {
+            this.loudi.addTouchEventListener(this.buClicked,this);
+            this.buClicked(this.loudi,ccui.Widget.TOUCH_ENDED);
+        }
 
         this.waihuzi= ccui.helper.seekWidgetByName(node, "waihuzi");
-        this.waihuzi.addTouchEventListener(this.buClicked,this);
+        if (this.waihuzi != null) {
+            this.waihuzi.addTouchEventListener(this.buClicked,this);
+        }
 
 
         this.shuangfeng= ccui.helper.seekWidgetByName(node, "shuangfeng");
-        this.shuangfeng.addTouchEventListener(this.buClicked,this);
+        if (this.shuangfeng != null) {
+            this.shuangfeng.addTouchEventListener(this.buClicked,this);
+        }
 
         this.leiyang= ccui.helper.seekWidgetByName(node, "leiyang");
-        this.leiyang.addTouchEventListener(this.buClicked,this);
+        if (this.leiyang != null) {
+            this.leiyang.addTouchEventListener(this.buClicked,this);
+        }
 
         this.hengyang= ccui.helper.seekWidgetByName(node, "hengyang");
-        this.hengyang.addTouchEventListener(this.buClicked,this);
+        if (this.hengyang != null) {
+            this.hengyang.addTouchEventListener(this.buClicked,this);
+        }
 
         this.guilin= ccui.helper.seekWidgetByName(node, "guilin");
-        this.guilin.addTouchEventListener(this.buClicked,this);
+        if (this.guilin != null) {
+            this.guilin.addTouchEventListener(this.buClicked,this);
+        }
 
         this.huaihua= ccui.helper.seekWidgetByName(node, "huaihua");
-        this.huaihua.addTouchEventListener(this.buClicked,this);
+        if (this.huaihua != null) {
+            this.huaihua.addTouchEventListener(this.buClicked,this);
+            this.buClicked(this.huaihua,ccui.Widget.TOUCH_ENDED);
+        }
 
 
         this.hongheihu= ccui.helper.seekWidgetByName(node, "hongheihu");
-        this.hongheihu.addTouchEventListener(this.buClicked,this);
+        if (this.hongheihu != null) {
+            this.hongheihu.addTouchEventListener(this.buClicked,this);
+        }
 
         this.penghuzi= ccui.helper.seekWidgetByName(node, "penghuzi");
-        this.penghuzi.addTouchEventListener(this.buClicked,this);
+        if (this.penghuzi != null) {
+            this.penghuzi.addTouchEventListener(this.buClicked,this);
+        }
 
         this.dazipai= ccui.helper.seekWidgetByName(node, "dazipai");
-        this.dazipai.addTouchEventListener(this.buClicked,this);
+        if (this.dazipai != null) {
+            this.dazipai.addTouchEventListener(this.buClicked,this);
+        }
 
-
-        this.buClicked(this.loudi,ccui.Widget.TOUCH_ENDED);
 
     },
     closeClicked:function(sender, type)
@@ -140,53 +170,80 @@ var RuleLayer=cc.Layer.extend({
             {
                 sender.setScale(1.0);
 
-                this.bopi.setEnabled(true);
-                this.bopi.setTouchEnabled(true);
+                if (this.bopi != null) {
+                    this.bopi.setEnabled(true);
+                    this.bopi.setTouchEnabled(true);
+                }
 
-                this.honghu.setEnabled(true);
-                this.honghu.setTouchEnabled(true);
+                if (this.honghu != null) {
+                    this.honghu.setEnabled(true);
+                    this.honghu.setTouchEnabled(true);
+                }
 
-                this.binzhou.setEnabled(true);
-                this.binzhou.setTouchEnabled(true);
+                if (this.binzhou != null) {
+                    this.binzhou.setEnabled(true);
+                    this.binzhou.setTouchEnabled(true);
+                }
 
-                this.gaohuzi.setEnabled(true);
-                this.gaohuzi.setTouchEnabled(true);
+                if (this.gaohuzi != null) {
+                    this.gaohuzi.setEnabled(true);
+                    this.gaohuzi.setTouchEnabled(true);
+                }
 
-                this.yongxing.setEnabled(true);
-                this.yongxing.setTouchEnabled(true);
+                if (this.yongxing != null) {
+                    this.yongxing.setEnabled(true);
+                    this.yongxing.setTouchEnabled(true);
+                }
 
-                this.loudi.setEnabled(true);
-                this.loudi.setTouchEnabled(true);
+                if (this.loudi != null) {
+                    this.loudi.setEnabled(true);
+                    this.loudi.setTouchEnabled(true);
+                }
 
-                this.waihuzi.setEnabled(true);
-                this.waihuzi.setTouchEnabled(true);
+                if (this.waihuzi != null) {
+                    this.waihuzi.setEnabled(true);
+                    this.waihuzi.setTouchEnabled(true);
+                }
 
-                this.shuangfeng.setEnabled(true);
-                this.shuangfeng.setTouchEnabled(true);
+                if (this.shuangfeng != null) {
+                    this.shuangfeng.setEnabled(true);
+                    this.shuangfeng.setTouchEnabled(true);
+                }
 
+                if (this.leiyang != null) {
+                    this.leiyang.setEnabled(true);
+                    this.leiyang.setTouchEnabled(true);
+                }
 
-                this.leiyang.setEnabled(true);
-                this.leiyang.setTouchEnabled(true);
+                if (this.hengyang != null) {
+                    this.hengyang.setEnabled(true);
+                    this.hengyang.setTouchEnabled(true);
+                }
 
-                this.hengyang.setEnabled(true);
-                this.hengyang.setTouchEnabled(true);
+                if (this.guilin != null) {
+                    this.guilin.setEnabled(true);
+                    this.guilin.setTouchEnabled(true);
+                }
 
-                this.guilin.setEnabled(true);
-                this.guilin.setTouchEnabled(true);
+                if (this.huaihua != null) {
+                    this.huaihua.setEnabled(true);
+                    this.huaihua.setTouchEnabled(true);
+                }
 
-                this.huaihua.setEnabled(true);
-                this.huaihua.setTouchEnabled(true);
+                if (this.hongheihu != null) {
+                    this.hongheihu.setEnabled(true);
+                    this.hongheihu.setTouchEnabled(true);
+                }
 
-                this.hongheihu.setEnabled(true);
-                this.hongheihu.setTouchEnabled(true);
+                if (this.penghuzi != null) {
+                    this.penghuzi.setEnabled(true);
+                    this.penghuzi.setTouchEnabled(true);
+                }
 
-
-                this.penghuzi.setEnabled(true);
-                this.penghuzi.setTouchEnabled(true);
-
-                this.dazipai.setEnabled(true);
-                this.dazipai.setTouchEnabled(true);
-
+                if (this.dazipai != null) {
+                    this.dazipai.setEnabled(true);
+                    this.dazipai.setTouchEnabled(true);
+                }
 
 
                 if (this.bopi == sender) {
