@@ -1,0 +1,52 @@
+var GetIpResponse=function(){
+//-1,错误,
+	this.state=0;
+//0:创建房间,1:加入房间,2:检测未完成房间
+	this.type=0;
+//
+	this.ip="";
+//
+	this.port=0;
+//
+	this.uploadPort=0;
+//
+	this.tomcatPort=0;
+//
+	this.roomId="";
+
+this.write=function(bodybuff)
+{
+	bodybuff.putInt(this.state);
+	bodybuff.putInt(this.type);
+	bodybuff.putUTF(this.ip);
+	bodybuff.putInt(this.port);
+	bodybuff.putInt(this.uploadPort);
+	bodybuff.putInt(this.tomcatPort);
+	bodybuff.putUTF(this.roomId);
+};
+this.read=function(buffer)
+{
+	this.state=buffer.readInt();
+	this.type=buffer.readInt();
+	this.ip=buffer.readUTF();
+	this.port=buffer.readInt();
+	this.uploadPort=buffer.readInt();
+	this.tomcatPort=buffer.readInt();
+	this.roomId=buffer.readUTF();
+};
+this.clone=function()
+{
+var cloneObj={};
+cloneObj.state=this.state;
+cloneObj.type=this.type;
+cloneObj.ip=this.ip;
+cloneObj.port=this.port;
+cloneObj.uploadPort=this.uploadPort;
+cloneObj.tomcatPort=this.tomcatPort;
+cloneObj.roomId=this.roomId;
+cloneObj.read=this.read;
+cloneObj.write=this.write;
+cloneObj.clone=this.clone;
+return cloneObj;
+};
+};
