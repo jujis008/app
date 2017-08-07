@@ -247,18 +247,18 @@ var RoomListLayer=cc.Layer.extend({
         switch (type) {
             case ccui.Widget.TOUCH_BEGAN:
             {
-                sender.setScale(1.55);
+                sender.setScale(1.1);
             }
                 break;
             case ccui.Widget.TOUCH_CANCELED:
             {
-                sender.setScale(1.5);
+                sender.setScale(1.0);
             }
                 break;
             case ccui.Widget.TOUCH_ENDED:
             {
 
-                sender.setScale(1.5);
+                sender.setScale(1.0);
 
                 var that=this;
                 var room=sender.room;
@@ -295,17 +295,17 @@ var RoomListLayer=cc.Layer.extend({
         switch (type) {
             case ccui.Widget.TOUCH_BEGAN:
             {
-                sender.setScale(1.55);
+                sender.setScale(1.1);
             }
                 break;
             case ccui.Widget.TOUCH_CANCELED:
             {
-                sender.setScale(1.5);
+                sender.setScale(1.0);
             }
                 break;
             case ccui.Widget.TOUCH_ENDED:
             {
-                sender.setScale(1.5);
+                sender.setScale(1.0);
 
                 var room=sender.room;
 
@@ -329,18 +329,18 @@ var RoomListLayer=cc.Layer.extend({
         switch (type) {
             case ccui.Widget.TOUCH_BEGAN:
             {
-                sender.setScale(1.55);
+                sender.setScale(1.1);
             }
                 break;
             case ccui.Widget.TOUCH_CANCELED:
             {
-                sender.setScale(1.5);
+                sender.setScale(1.0);
             }
                 break;
             case ccui.Widget.TOUCH_ENDED:
             {
 
-                sender.setScale(1.5);
+                sender.setScale(1.0);
 
                 var room=sender.room;
                 var getLayer=new GetServerLayer(4,room,function(state)
